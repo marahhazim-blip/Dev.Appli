@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>Demo de HTML</title>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="#HTML, #code, #M2i">
+  </head>
+  <body>
+    <!-- Ceci est un commentaire -->
+
+    <!-- Les balise h1 à h6 permettent de donner des titres -->
+    <!-- Le header permet de donner les titres principaux de notre page -->
+    <header>
+      <h1>Bienvenue à cette demo de HTML !!</h1>
+    </header>
+
+    <hr />
+
+    <h1 ></h1>
+
+    <!-- Le nav est simplement notre barre de navigation vers nos différentes pages -->
+    <nav>
+      <a href="https://la-pause-code.fr/daily/daily-dev-jokes/" target="_blank"
+        >Lien vers la pause code</a
+      >
+
+      <a href="page1.html" target="_blank">Lien vers la page 1</a>
+
+      <a href="dossier_pages/page2.html" target="_blank">Lien vers la page 2</a>
+
+      <a href="#code_js">Lien vers le code JS</a>
+    </nav>
+
+    <hr />
+
+    <main>
+      <h2>Sous-titre de h2</h2>
+      <h3>Encore un sous-titre h3</h3>
+      <h4>Un sous-sous-titre h4</h4>
+
+      <!-- Ceci est un paragraphe (zone de texte) -->
+      <p>Ceci est un paragraphe qui peut être relativement long.</p>
+
+      <p><strong>Ceci est un texte en gras</strong></p>
+
+      <p><em>Ceci est un texte en italique</em></p>
+
+      <p><mark>Ceci est un texte surligné</mark></p>
+
+      <q> Ceci est une citation </q>
+
+      <cite> Mon livre </cite>
+
+      <blockquote>La citation sur plusieurs lignes</blockquote>
+
+      <pre id="code_js">
+                // Ceci est du code
+                let a = 5;
+                console.log(a); 
+            </pre
+      >
+
+      <p>Ceci est une zone texte avec <br />un retour à la ligne</p>
+
+      <!-- Liste à puce -->
+      <ul>
+        <li>Premier élément à puce</li>
+        <li>Second élément à puce</li>
+        <li>Troisième élément à puce</li>
+        <li>Quatrième élément à puce</li>
+      </ul>
+
+      <!-- Liste numéroté -->
+      <ol>
+        <li>Premier élément à puce</li>
+        <li>Second élément à puce</li>
+        <li>Troisième élément à puce</li>
+        <li>Quatrième élément à puce</li>
+      </ol>
+
+      <ol type="I">
+        <li>Premier élément à puce</li>
+        <li>Second élément à puce</li>
+        <li>Troisième élément à puce</li>
+        <li>Quatrième élément à puce</li>
+      </ol>
+
+      <!-- Une table -->
+      <table>
+        <!-- Le thead est pour l'entete du tableau -->
+        <thead>
+          <!-- th est pour une valeur d'entete -->
+          <th>Etudiant</th>
+          <th>matiere</th>
+          <th>note</th>
+        </thead>
+        <!-- tbody est le corps du tableau (les différentes valeurs) -->
+        <tbody>
+          <!-- tr est pour une ligne de ce tableau (table row) -->
+          <tr>
+            <!-- td est pour une donnée sur cette ligne (table data) -->
+            <td>toto</td>
+            <td>math</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>tata</td>
+            <td>français</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>titi</td>
+            <td>sport</td>
+            <td>15</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td>ceci</td>
+            <td>est</td>
+            <td>un pied de page</td>
+          </tr>
+        </tfoot>
+      </table>
+      <br />
+
+      <form method="post" id="monForm">
+        <label for="inputText">Texte : </label>
+        <input
+          type="text"
+          id="inputText"
+          name="inputText"
+          placeholder="Mon texte à insérer"
+        />
+
+        <label for="inputNumber">Nombre : </label>
+        <input
+          type="number"
+          id="inputNumber"
+          name="inputNumber"
+          max="10"
+          min="0"
+          value="1"
+        />
+
+        <label
+          >Date :
+          <input type="date" id="inputDate" name="inputDate" required />
+        </label>
+
+        <label
+          >Range :
+          <input
+            type="range"
+            id="inputRange"
+            name="inputRange"
+            min="0"
+            max="200"
+            step="50"
+            list="markers"
+          />
+          <datalist id="markers">
+            <option value="0" label="0">0</option>
+            <option value="50" label="50">50</option>
+            <option value="100" label="100">100</option>
+            <option value="150" label="150">150</option>
+            <option value="200" label="200">200</option>
+          </datalist>
+        </label>
+
+        <label
+          >Check box
+          <input type="checkbox" name="inputCheckBox" id="inputCheckbox" />
+        </label>
+        <br />
+
+        <fieldset>
+          <legend>Radio button</legend>
+          <label
+            >Radio box
+            <input type="radio" name="inputRadio" id="inputRadio1" />
+          </label>
+          <label
+            >Radio box 2
+            <input type="radio" name="inputRadio" id="inputRadio2" />
+          </label>
+          <label
+            >Radio box 3
+            <input type="radio" name="inputRadio" id="inputRadio3" />
+          </label>
+        </fieldset>
+
+        <br />
+
+        <label
+          >Mot de passe
+          <input
+            type="password"
+            name="inputPassword"
+            id="inputPassword"
+            required
+          />
+        </label>
+        <br />
+        <select>
+          <option value="">Sélection une option</option>
+          <option value="1">Option 1</option>
+          <option value="2">Option 2</option>
+          <option value="3">Option 3</option>
+        </select>
+
+        <button type="submit">Submit button</button>
+        <p>test</p>
+      </form>
+
+      <img
+        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Ffunny-cat-friends-taking-picture-pnpc5983h1l6avo9.jpg&f=1&nofb=1&ipt=fd0a51b7ce98f40ec6bbb12ea10ba8566b2b82f737ede6d311e0adde1d7a7dba"
+        alt="Chats regardant un téléphone"
+        height="500"
+        width="800"
+      />
+    </main>
+  </body>
+</html>

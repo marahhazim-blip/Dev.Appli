@@ -1,0 +1,25 @@
+/* Commentaire CSS */
+
+/* 
+Syntaxe CSS:
+
+Les règles CSS sont écrites entre accolades {}.
+Chaque règle commence par un sélecteur, suivi d'un bloc de déclarations.
+Chauqe déclaration se compose d'une propriété, suivie de deux-points (:), puis de la valeur de cette propriété. 
+
+selecteur {
+    propriete: valeurs;
+    propriete2: valeur2; 
+}
+
+*/
+
+p {
+    color: red; 
+    font-size: larger;
+    /* font-weight: bold;
+    margin-top: 50px;
+    border: 2px solid black;
+    text-align: center;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.349); */
+}

@@ -1,0 +1,65 @@
+/* Selecteur universel */
+* {
+  box-sizing: border-box;
+}
+
+/* Styles généraux sur l'ensemble des balises pourtant le même nom */
+body {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+/* Styles appliquer sur l'ensemble des éléments possédant la classe en question */
+.bordure_grise {
+  margin-bottom: 30px;
+  border: 1px solid grey;
+  padding: 10px;
+}
+
+/* Il est possible de donner plusieurs balise qui vont recevoir les mêmes modifications */
+h1,
+h2 {
+  color: brown;
+}
+
+.text {
+  font-weight: bold;
+}
+
+/* Pour être le plus précis possible, nous pouvons changer un élément avec un id spécifiques */
+#special {
+  color: red;
+}
+
+div {
+  padding: 5px;
+  margin: 5px;
+  background-color: lightblue;
+}
+
+div:hover {
+  box-shadow: 3px 3px black;
+}
+
+span {
+  padding: 5px;
+  margin: 5px;
+  background-color: lightgreen;
+}
+
+.highlight {
+  font-style: italic;
+}
+
+/* Nous pouvons également sélectionner uniquement les balises qui sont à l'intérieur de balise plus spécifiques. */
+ul li {
+  list-style-type: none;
+  color: blueviolet;
+}
+
+ol li {
+  list-style-type: decimal;
+  color: blanchedalmond;
+}
