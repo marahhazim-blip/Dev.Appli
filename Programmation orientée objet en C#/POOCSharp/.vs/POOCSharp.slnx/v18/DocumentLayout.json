@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\POOCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6732E6B6-0F6B-4E51-9471-BEC4C7D36493}|ExerciceWaterTank\\ExerciceWaterTank.csproj|c:\\users\\admin\\desktop\\poocsharp\\exercicewatertank\\classes\\watertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6732E6B6-0F6B-4E51-9471-BEC4C7D36493}|ExerciceWaterTank\\ExerciceWaterTank.csproj|solutionrelative:exercicewatertank\\classes\\watertank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F2D32A-5652-49E0-A82E-F673A48F20BD}|ExercicePile\\ExercicePile.csproj|c:\\users\\admin\\desktop\\poocsharp\\exercicepile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F2D32A-5652-49E0-A82E-F673A48F20BD}|ExercicePile\\ExercicePile.csproj|solutionrelative:exercicepile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F2D32A-5652-49E0-A82E-F673A48F20BD}|ExercicePile\\ExercicePile.csproj|c:\\users\\admin\\desktop\\poocsharp\\exercicepile\\pile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F2D32A-5652-49E0-A82E-F673A48F20BD}|ExercicePile\\ExercicePile.csproj|solutionrelative:exercicepile\\pile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F2D32A-5652-49E0-A82E-F673A48F20BD}|ExercicePile\\ExercicePile.csproj|c:\\users\\admin\\desktop\\poocsharp\\exercicepile\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F2D32A-5652-49E0-A82E-F673A48F20BD}|ExercicePile\\ExercicePile.csproj|solutionrelative:exercicepile\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaterTank.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExerciceWaterTank\\Classes\\WaterTank.cs",
+              "RelativeDocumentMoniker": "ExerciceWaterTank\\Classes\\WaterTank.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExerciceWaterTank\\Classes\\WaterTank.cs",
+              "RelativeToolTip": "ExerciceWaterTank\\Classes\\WaterTank.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:18:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExercicePile\\Personne.cs",
+              "RelativeDocumentMoniker": "ExercicePile\\Personne.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExercicePile\\Personne.cs",
+              "RelativeToolTip": "ExercicePile\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:15:33.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExercicePile\\Pile.cs",
+              "RelativeDocumentMoniker": "ExercicePile\\Pile.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExercicePile\\Pile.cs",
+              "RelativeToolTip": "ExercicePile\\Pile.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:15:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExercicePile\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicePile\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\POOCSharp\\ExercicePile\\Program.cs",
+              "RelativeToolTip": "ExercicePile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:12:50.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

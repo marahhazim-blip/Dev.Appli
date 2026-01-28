@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\bin\Debug\net10.0\ExoChaise.exe
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\bin\Debug\net10.0\ExoChaise.deps.json
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\bin\Debug\net10.0\ExoChaise.runtimeconfig.json
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\bin\Debug\net10.0\ExoChaise.dll
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\bin\Debug\net10.0\ExoChaise.pdb
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ExoChaise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ExoChaise.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ExoChaise.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ExoChaise.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ExoChaise.dll
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\refint\ExoChaise.dll
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ExoChaise.pdb
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ExoChaise.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\POOCSharp\ExoChaise\obj\Debug\net10.0\ref\ExoChaise.dll

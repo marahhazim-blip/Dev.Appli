@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\bin\Debug\net10.0\ExercicePendu.exe
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\bin\Debug\net10.0\ExercicePendu.deps.json
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\bin\Debug\net10.0\ExercicePendu.runtimeconfig.json
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\bin\Debug\net10.0\ExercicePendu.dll
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\bin\Debug\net10.0\ExercicePendu.pdb
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ExercicePendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ExercicePendu.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ExercicePendu.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ExercicePendu.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ExercicePendu.dll
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\refint\ExercicePendu.dll
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ExercicePendu.pdb
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ExercicePendu.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\POOCSharp\ExercicePendu\obj\Debug\net10.0\ref\ExercicePendu.dll

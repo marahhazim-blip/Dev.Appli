@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="DemoGenerique/DemoGenerique.csproj" Id="92c90a56-4fbc-4b23-b5ed-2a2d93d0e14d" />
+  <Project Path="DemoHeritage/DemoHeritage.csproj" Id="5c7a8dc4-d92c-4123-a12d-e728499daddf" />
+  <Project Path="DemoInterface/DemoInterface.csproj" Id="f3cd5b66-5cc8-47d1-bae9-db836041465d" />
+  <Project Path="ExerciceCompteBancaire/ExerciceCompteBancaire.csproj" Id="a8b6ecfc-00a1-4c36-b2a0-dd03e9c1ec5e" />
+  <Project Path="ExerciceFigures/ExerciceFigures.csproj" Id="776b7c43-94f5-4a0c-9d96-4021bf75a869" />
+  <Project Path="ExercicePendu/ExercicePendu.csproj" Id="044a4d78-e376-4884-a939-083090f59048" />
+  <Project Path="ExercicePile/ExercicePile.csproj" Id="36f2d32a-5652-49e0-a82e-f673a48f20bd" />
+  <Project Path="ExerciceSalarie/ExerciceSalarie.csproj" Id="422b3783-7c9d-4d45-98db-d6af858fed1a" />
+  <Project Path="ExerciceSalarieHeritage/ExerciceSalarieHeritage.csproj" Id="4df3bb5b-5702-43ed-903a-7d22fcbfa74e" />
+  <Project Path="ExerciceWaterTank/ExerciceWaterTank.csproj" Id="6732e6b6-0f6b-4e51-9471-bec4c7d36493" />
+  <Project Path="ExoChaise/ExoChaise.csproj" />
+  <Project Path="ExoSalarie/ExoSalarie.csproj" />
+  <Project Path="POOCSharp/POOCSharp.csproj" />
+</Solution>

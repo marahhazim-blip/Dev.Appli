@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\bin\Debug\net10.0\DemoHeritage.exe
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\bin\Debug\net10.0\DemoHeritage.deps.json
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\bin\Debug\net10.0\DemoHeritage.runtimeconfig.json
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\bin\Debug\net10.0\DemoHeritage.dll
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\bin\Debug\net10.0\DemoHeritage.pdb
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\DemoHeritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\DemoHeritage.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\DemoHeritage.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\DemoHeritage.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\DemoHeritage.dll
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\refint\DemoHeritage.dll
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\DemoHeritage.pdb
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\DemoHeritage.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\POOCSharp\DemoHeritage\obj\Debug\net10.0\ref\DemoHeritage.dll

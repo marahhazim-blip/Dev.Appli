@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExercicePendu/1.0.0": {
+        "runtime": {
+          "ExercicePendu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicePendu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

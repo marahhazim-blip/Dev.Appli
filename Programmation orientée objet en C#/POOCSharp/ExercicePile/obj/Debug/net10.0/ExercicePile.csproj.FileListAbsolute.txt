@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\bin\Debug\net10.0\ExercicePile.exe
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\bin\Debug\net10.0\ExercicePile.deps.json
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\bin\Debug\net10.0\ExercicePile.runtimeconfig.json
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\bin\Debug\net10.0\ExercicePile.dll
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\bin\Debug\net10.0\ExercicePile.pdb
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ExercicePile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ExercicePile.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ExercicePile.AssemblyInfo.cs
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ExercicePile.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ExercicePile.dll
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\refint\ExercicePile.dll
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ExercicePile.pdb
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ExercicePile.genruntimeconfig.cache
+C:\Users\admin\Desktop\POOCSharp\ExercicePile\obj\Debug\net10.0\ref\ExercicePile.dll
